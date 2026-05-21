@@ -22,13 +22,12 @@ export const botConfig = {
     // 3 = Watching
     // 4 = Custom
     // 5 = Competing
-    // 6 = Helping
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "Made by the CEO of Silent Tierlist-Bloody Nightfall",
         // Activity type number (0 = Playing).
-        type: 6, 
+        type: 3, 
       },
     ],
   },
